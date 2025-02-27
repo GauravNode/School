@@ -1,0 +1,6 @@
+module.exports = {
+  MONGO_URI: "mongodb://127.0.0.1:27017/SCHOOLMANAGEMENT",
+  PORT: 5050,
+  JWT_SECRET: "3249fm3920rfj392fk09392k3",
+  SALT_ROUNDS: 11
+};
